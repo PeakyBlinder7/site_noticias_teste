@@ -1,0 +1,84 @@
+h1 {
+
+    text-align: center;
+    font-size: 60px;
+}
+
+p {
+
+    text-align: center;
+    font-size: large;
+    color: rgb(206, 206, 221);
+}
+
+body {
+
+    color: rgb(182, 212, 175);
+    background-color: rgb(176, 235, 250);
+}
+
+
+table,
+th,
+td {
+    border: 4px solid;
+
+    border-radius: 3%;
+    text-align: center;
+    width: 900px;
+    height: 200px;
+    font-size: 50px;
+    block-size: auto;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(255, 246, 246);
+
+
+}
+
+a {
+
+    color: rgb(0, 0, 0);
+    
+}
+
+img {
+
+    width: 100%;
+    height: 100%;
+    block-size: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 0px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+
+
+    z-index: -1;
+
+}
+
+button{
+
+    
+    color: black;
+    block-size: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+}
+
+marquee{
+
+    width: 200px;
+    height: 60px;
+    block-size: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    font-size: 40px;
+}
