@@ -42,7 +42,7 @@ a {
     
 }
 
-img {
+.displayed {
 
     width: 100%;
     height: 100%;
@@ -81,4 +81,19 @@ marquee{
     margin-right: auto;
     display: block;
     font-size: 40px;
+}
+
+.topo{
+
+    z-index: 0;
+    width: 100%;
+    height: 5px;
+
+}
+
+.bot{
+    z-index: 0;
+    width: 100%;
+    height: 5px;
+
 }
